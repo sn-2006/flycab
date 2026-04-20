@@ -1,7 +1,3 @@
-# flycab
-
-A webpage that is similar to rapido but vehicles moves in air!
-
 # FlyCab
 
 FlyCab is a web application for booking autonomous flying taxi rides.
