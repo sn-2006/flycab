@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-
-# Welcome to your Lovable project
-
-# TODO: Document your project here
-
 # flycab
 
 A webpage that is similar to rapido but vehicles moves in air!
-
-> > > > > > > 310b8a242b5bbb80b10fd696fe3280ae5ac700ee
 
 # FlyCab
 
